@@ -1,0 +1,30 @@
+[
+  {
+    "codigo": "R1",
+    "nome": "Savana",
+    "capacidade": 3,
+    "animais": [
+      "A1",
+      "A2"
+    ],
+    "limpo": false
+  },
+  {
+    "codigo": "R2",
+    "nome": "Floresta",
+    "capacidade": 4,
+    "animais": [
+      "A3"
+    ],
+    "limpo": true
+  },
+  {
+    "codigo": "R3",
+    "nome": "Polo",
+    "capacidade": 2,
+    "animais": [
+      "A4"
+    ],
+    "limpo": true
+  }
+]

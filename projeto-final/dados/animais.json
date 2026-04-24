@@ -1,0 +1,30 @@
+[
+  {
+    "codigo": "A1",
+    "nome": "Simba",
+    "idade": 5,
+    "recinto_codigo": "R1",
+    "especie": "leao"
+  },
+  {
+    "codigo": "A2",
+    "nome": "Dumbo",
+    "idade": 12,
+    "recinto_codigo": "R1",
+    "especie": "elefante"
+  },
+  {
+    "codigo": "A3",
+    "nome": "Kiko",
+    "idade": 3,
+    "recinto_codigo": "R2",
+    "especie": "macaco"
+  },
+  {
+    "codigo": "A4",
+    "nome": "Lolo",
+    "idade": 4,
+    "recinto_codigo": "R3",
+    "especie": "pinguim"
+  }
+]

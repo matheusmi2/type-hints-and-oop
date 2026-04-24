@@ -1,0 +1,34 @@
+[
+  {
+    "codigo": "T1",
+    "nome": "Marina",
+    "turno": "manha",
+    "categoria": "geral",
+    "atividades_realizadas": 1,
+    "cronograma": []
+  },
+  {
+    "codigo": "T2",
+    "nome": "Carlos",
+    "turno": "tarde",
+    "categoria": "especialista",
+    "especialidades": [
+      "leao",
+      "elefante"
+    ],
+    "atividades_realizadas": 0,
+    "cronograma": []
+  },
+  {
+    "codigo": "T3",
+    "nome": "Bianca",
+    "turno": "manha",
+    "categoria": "especialista",
+    "especialidades": [
+      "macaco",
+      "pinguim"
+    ],
+    "atividades_realizadas": 0,
+    "cronograma": []
+  }
+]
